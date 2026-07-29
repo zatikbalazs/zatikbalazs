@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Balázs 👋
 
-<!--
-**zatikbalazs/zatikbalazs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about all things PHP — from core architecture and vanilla code to modern frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Project: getPHP
+I'm the creator of **[getPHP](https://getphp.org/)**, the simplest tool designed to streamline local PHP environment setups across macOS, Linux, and Windows.
+
+* 🌐 **Website:** [getphp.org](https://getphp.org/)
+* 📺 **YouTube:** [@getPHPorg](https://www.youtube.com/@getPHPorg)
+
+---
+
+### 🛠️ Tech & Tools
+* **Languages & Frameworks:** PHP, Vanilla JS, HTML/CSS
+* **Environment & Tools:** Command-line tooling, PowerShell, Bash, Sublime Text
+
+---
+
+📫 **Connect with me:** [zatikbalazs@gmail.com](mailto:zatikbalazs@gmail.com)
