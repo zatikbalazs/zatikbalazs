@@ -13,9 +13,13 @@ I'm the creator of **[getPHP](https://getphp.org/)**, the simplest tool designed
 ---
 
 ### 🛠️ Tech & Tools
-* **Languages & Frameworks:** PHP, Vanilla JS, HTML/CSS
+* **Languages & Frameworks:** PHP, SQL, Vanilla JS, HTML/CSS
 * **Environment & Tools:** Command-line tooling, PowerShell, Bash, Sublime Text
 
 ---
 
+## What is getPHP?
+[![Watch the video](https://img.youtube.com/vi/xsaRmON6MRE/maxresdefault.jpg)](https://www.youtube.com/watch?v=xsaRmON6MRE)
+
+---
 📫 **Connect with me:** [zatikbalazs@gmail.com](mailto:zatikbalazs@gmail.com)
