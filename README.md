@@ -8,7 +8,7 @@ I'm a software developer passionate about all things PHP — from core architect
 I'm the creator of **[getPHP](https://getphp.org/)**, the simplest tool designed to streamline local PHP environment setups across macOS, Linux, and Windows.
 
 * 🌐 **Website:** [getphp.org](https://getphp.org/)
-* 📺 **YouTube:** [@getPHPorg](https://www.youtube.com/@getPHPorg)
+* 📺 **YouTube:** [@getPHPorg](https://www.youtube.com/@getPHPorg/shorts)
 
 ---
 
