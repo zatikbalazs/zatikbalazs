@@ -8,7 +8,7 @@ I'm a software developer passionate about all things PHP — from core architect
 I'm the creator of **[getPHP](https://getphp.org/)**, the simplest tool designed to streamline local PHP environment setups across macOS, Linux, and Windows.
 
 * 🌐 **Website:** [getphp.org](https://getphp.org/)
-* 📺 **YouTube:** [@getPHPorg](https://www.youtube.com/@getPHPorg/shorts)
+* 📺 **YouTube:** [@getPHPorg](https://www.youtube.com/@getPHPorg)
 
 ---
 
@@ -18,8 +18,8 @@ I'm the creator of **[getPHP](https://getphp.org/)**, the simplest tool designed
 
 ---
 
-## What is getPHP?
-[![Watch the video](https://img.youtube.com/vi/xsaRmON6MRE/maxresdefault.jpg)](https://www.youtube.com/watch?v=xsaRmON6MRE)
+## Local PHP Stack With One Command
+[![Watch the video](https://img.youtube.com/vi/CSvH4A3erJo/maxresdefault.jpg)](https://youtu.be/CSvH4A3erJo)
 
 ---
 📫 **Connect with me:** [zatikbalazs@gmail.com](mailto:zatikbalazs@gmail.com)
