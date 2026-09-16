@@ -19,7 +19,7 @@ I'm the creator of **[getPHP](https://getphp.org/)**, the simplest tool designed
 ---
 
 ## Local PHP Stack With One Command
-[![Watch the video](https://img.youtube.com/vi/CSvH4A3erJo/maxresdefault.jpg)](https://youtu.be/CSvH4A3erJo)
+[![Watch the video](https://img.youtube.com/vi/QqGBz7YrHfk/maxresdefault.jpg)](https://youtu.be/QqGBz7YrHfk)
 
 ---
 📫 **Connect with me:** [zatikbalazs@gmail.com](mailto:zatikbalazs@gmail.com)
