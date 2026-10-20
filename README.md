@@ -1,25 +1,11 @@
-# Hi there, I'm Balázs 👋
+# Hi there, I'm Balazs 👋
 
-I'm a software developer passionate about all things PHP — from core architecture and vanilla code to modern frameworks.
+I'm Balazs Zatik, a full-stack web developer with 20+ years of experience, originally from Hungary and now based in Florida.
 
----
+I build things the pure way: vanilla PHP, CSS, JavaScript, and SQL. Zero bloat, zero over-engineered frameworks, and no unnecessary dependencies. Just pure code, total control, and maximum freedom.
 
-### 🚀 Key Project: getPHP
-I'm the creator of **[getPHP](https://getphp.org/)**, the simplest tool designed to streamline local PHP environment setups across macOS, Linux, and Windows.
+I'm dedicated to teaching people who love building from scratch and treat coding like art.
 
-* 🌐 **Website:** [getphp.org](https://getphp.org/)
-* 📺 **YouTube:** [@getPHPorg](https://www.youtube.com/@getPHPorg)
+Get started: Visit my website at **[getPHP.org](https://getphp.org/)** and spin up your local development environment within a few minutes. The getPHP script is a free, cross-platform installer for macOS, Windows, and Linux.
 
----
-
-### 🛠️ Tech & Tools
-* **Languages & Frameworks:** PHP, SQL, Vanilla JS, HTML/CSS
-* **Environment & Tools:** Command-line tooling, PowerShell, Bash, Sublime Text
-
----
-
-## Local PHP Stack With One Command
-[![Watch the video](https://img.youtube.com/vi/QqGBz7YrHfk/maxresdefault.jpg)](https://youtu.be/QqGBz7YrHfk)
-
----
-📫 **Connect with me:** [zatikbalazs@gmail.com](mailto:zatikbalazs@gmail.com)
+[![Watch the video](https://img.youtube.com/vi/Cgl64IwJg6w/maxresdefault.jpg)](https://youtu.be/Cgl64IwJg6w)
